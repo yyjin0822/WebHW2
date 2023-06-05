@@ -94,9 +94,10 @@ form{
 	padding-right: 15px;
 }
 .insertbtnstyle{
-	width: 90%;
+	width: 80%;
 	display: flex;
 	margin-top: 20px;
+	margin-right: 7%;
 	margin-bottom: 100px;
 }
 .insertbtnstyle>*{
@@ -104,4 +105,9 @@ form{
 	height: 50px;
 	padding-left: 10px;
 }	
+#content {
+    width: 85%;
+    margin-right: 4%;
+
+}
 
